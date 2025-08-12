@@ -1,0 +1,1 @@
+export { render as window_generic } from "./generic.js";
